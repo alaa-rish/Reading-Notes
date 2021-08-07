@@ -11,18 +11,6 @@ I’m taking a break now to join this journey to improve and learn the computer 
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
 
-
-
-
-
-
-## Read Topics:
-
-
 N\D| Remote              | **Link**
 -- |---------------------|--------------------------------
-01- | Read 01             | [Link]()
-02- | Read 02             | [Link]()
-03- | Read 03             | [Link]()
-04- | Read 04             | [Link]()
-05- | Read 05             | [Link]()
+01- | Class 01             | [Link](Class 01.md)
