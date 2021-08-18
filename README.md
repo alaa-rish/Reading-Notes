@@ -14,3 +14,11 @@ I’m taking a break now to join this journey to improve and learn the computer 
 N\D| Remote              | **Link**
 -- |---------------------|--------------------------------
 01- | Class 01             | [Link](Class 01.md)
+02- | Class 02             | [Link](Class 02.md)
+03- | Class 03             | [Link](Class 03.md)
+04- | Class 04             | [Link](Class 04.md)
+05- | Class 05             | [Link](Class 05.md)
+06- | Class 06             | [Link](Class 06.md)
+07- | Class 07             | [Link](Class 07.md)
+07- | Class 08             | [Link](Class 08.md)
+
