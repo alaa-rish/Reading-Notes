@@ -104,4 +104,5 @@ Instead of componentWillUpdate us getSnapshotBeforeUpdate.
 ![handychart](/img/1_4y9V5936WdJKaIeVPFEa3w.png)
 
 
-[Referance](https://reactjs.org/docs/react-component.html)
+
+[Referance.](https://reactjs.org/docs/react-component.html)
